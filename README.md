@@ -17,7 +17,7 @@
 </head>
 <body>
   <div class="wrap">
-    <h2>🏓 פינג-פונג משופר</h2>
+    <h2>🏓 פינג-פונג </h2>
     <canvas id="c" width="800" height="480"></canvas>
     <div class="controls">
       <button id="modeBtn">מצב: נגד המחשב</button>
